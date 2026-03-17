@@ -288,7 +288,7 @@ ul {
 
 /* Botón agregar al carrito */
 .btn-add-cart {
-    background: linear-gradient(to bottom, #ffd814, #f7ca00);
+    background: linear-gradient(to bottom, #4c0c80);
     border: 1px solid #c9a634;
     border-radius: 20px;
     padding: 10px 20px;
@@ -296,10 +296,11 @@ ul {
     cursor: pointer;
     transition: background 0.2s;
     margin-top: auto;
+    color: #ffffff;
 }
 
 .btn-add-cart:hover {
-    background: linear-gradient(to bottom, #f7ca00, #e7b800);
+    background: linear-gradient(to bottom, #1d0136, #1d0136);
 }
 
 .btn-add-cart:active {
