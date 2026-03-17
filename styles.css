@@ -313,7 +313,7 @@ ul {
 
 /* Botón volver arriba */
 .back-to-top {
-    background-color: #37475a;
+    background-color: #644671;
     padding: 15px;
     text-align: center;
 }
@@ -324,12 +324,12 @@ ul {
 }
 
 .back-to-top:hover {
-    background-color: #485769;
+    background-color: #360e41;
 }
 
 /* Sección de enlaces */
 .footer-links {
-    background-color: #232f3e;
+    background-color: #220332;
     padding: 40px 0;
 }
 
@@ -362,7 +362,7 @@ ul {
 
 /* Copyright */
 .footer-bottom {
-    background-color: #131921;
+    background-color: #1b1321;
     padding: 20px;
     text-align: center;
 }
