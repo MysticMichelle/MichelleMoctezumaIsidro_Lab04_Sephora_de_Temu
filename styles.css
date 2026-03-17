@@ -211,7 +211,7 @@ ul {
 
 /* Tarjeta de producto */
 .product-card {
-    background-color: #ffffff;
+    background-color: #eadaef;
     border: 1px solid #ddd;
     border-radius: 4px;
     padding: 15px;
@@ -227,7 +227,7 @@ ul {
 /* Imagen del producto (placeholder) */
 .product-image {
     width: 100%;
-    height: 200px;
+    height: 300px;
     background-color: #f0f0f0;
     border-radius: 4px;
     margin-bottom: 15px;
@@ -238,14 +238,14 @@ ul {
 
 .product-image::after {
     content: "📷";
-    font-size: 48px;
+    font-size: 40px;
     opacity: 0.3;
 }
 
 /* Título del producto */
 .product-title {
     font-size: 14px;
-    color: #007185;
+    color: #390252;
     font-weight: normal;
     margin-bottom: 10px;
     line-height: 1.4;
@@ -256,7 +256,7 @@ ul {
 }
 
 .product-title:hover {
-    color: #c7511f;
+    color: #c71fa8;
     text-decoration: underline;
     cursor: pointer;
 }
